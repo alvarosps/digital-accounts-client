@@ -1,31 +1,32 @@
-# Base React Project
-
-This is a base project template for a React application, with the latest versions of React, Webpack, Babel, ESLint, and Prettier. Created by @alvarosps
+# Digital Accounts
 
 ## Getting Started
 
 To get started with the project, follow these steps:
 
 1. Install the dependencies:
-`npm install`
+   `npm install`
 
 2. Start the development server:
-`npm start`
+   `npm start`
 
 ### Testing
+
 `npm run test`
 
 ### ESLint checks and ESLint Fixes
-- `npm run lint`
-- `npm run lint:fix`
+
+-   `npm run lint`
+-   `npm run lint:fix`
 
 ### Prettier checks and Prettier Fixes
-- `npm run prettier`
-- `npm run prettier:fix`
+
+-   `npm run prettier`
+-   `npm run prettier:fix`
 
 ## Deployment
 
-- This will be specific to the project and where it is being deployed.
-- For now, we have a build script, and a webpack suited for production.
-- Might need to add more scripts and files for deployment and hot-reloading in deployment (depends on the platform)
-`npm run build`
+-   This will be specific to the project and where it is being deployed.
+-   For now, we have a build script, and a webpack suited for production.
+-   Might need to add more scripts and files for deployment and hot-reloading in deployment (depends on the platform)
+    `npm run build`
